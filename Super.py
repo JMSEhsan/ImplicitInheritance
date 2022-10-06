@@ -4,6 +4,7 @@ class Parent(object):
     
     def altered(self):
         print("Parent altered()")
+        
 class Child(Parent):
 
     def altered(slef):
